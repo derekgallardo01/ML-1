@@ -20,17 +20,31 @@ This project focuses on predicting house prices using various features like loca
 - Steps to clone this repository and set up the local environment.
 
 ## Dataset
-- Information about the dataset used (e.g., Kaggle Housing dataset).
-- Link to download the dataset or instructions on how to access it.
+The dataset used in this project contains housing-related information, including features like area, bedrooms, bathrooms, parking, and price. It serves as the basis for predicting house prices. You can download the dataset from here or access it through the project's data folder.
 
 ## Usage
-- Instructions on how to run the Jupyter Notebook.
-- Description of each section of the notebook for easy navigation.
+Data Exploration: Open the Jupyter Notebook and navigate through the sections. Start by exploring the data to understand its structure and characteristics.
+
+Data Preprocessing: Follow the data preprocessing steps outlined in the notebook, including handling missing values and one-hot encoding for categorical variables.
+
+Exploratory Data Analysis (EDA): Perform exploratory data analysis to gain insights into the dataset. Visualizations and summary statistics are provided to assist you in understanding the data.
+
+Model Building: Implement a linear regression model to predict house prices based on the selected features.
+
+Model Evaluation: Evaluate the model's performance using metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE).
+
+Results: Interpret the results to understand the predictive capability of the model. This section provides insights into how well the model performs in predicting house prices.
 
 ## Methodology
-- Overview of the data cleaning and preprocessing steps.
-- Explanation of the exploratory data analysis performed.
-- Details about the feature selection process and the linear regression model used.
+The project follows a structured methodology:
+
+Data Cleaning and Preprocessing: Handling missing values and converting categorical variables using one-hot encoding.
+
+Exploratory Data Analysis (EDA): Analyzing the dataset through visualizations and summary statistics to understand patterns and relationships.
+
+Feature Selection: Selecting relevant features for the predictive model.
+
+Linear Regression Model: Implementing a linear regression model to predict house prices.
 
 ## Results
 - Summary of the model evaluation and key findings.
