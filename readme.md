@@ -49,13 +49,16 @@ The dataset used in this project contains housing-related information, including
 ## Methodology
 The project follows a structured methodology:
 
-Data Cleaning and Preprocessing: Handling missing values and converting categorical variables using one-hot encoding.
+1. **Data Cleaning and Preprocessing**: This phase involves handling missing values and converting categorical variables using one-hot encoding. Ensuring data quality and format is crucial for accurate analysis.
 
-Exploratory Data Analysis (EDA): Analyzing the dataset through visualizations and summary statistics to understand patterns and relationships.
+2. **Exploratory Data Analysis (EDA)**: In this step, the dataset is thoroughly analyzed through visualizations and summary statistics. The goal is to uncover patterns and relationships within the data, providing valuable insights.
 
-Feature Selection: Selecting relevant features for the predictive model.
+3. **Feature Selection**: Feature selection is a critical part of the analysis. Relevant features are selected to be used in the predictive model. This step helps improve model efficiency and effectiveness.
 
-Linear Regression Model: Implementing a linear regression model to predict house prices.
+4. **Linear Regression Model**: The project implements a linear regression model. This model is used to predict house prices based on the selected features. The model learns from the data and makes predictions.
+
+The structured approach ensures that the analysis is organized and systematic, leading to meaningful insights and accurate predictions.
+
 
 ## Results
 - Summary of the model evaluation and key findings.
