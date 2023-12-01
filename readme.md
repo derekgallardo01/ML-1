@@ -1,7 +1,7 @@
 # House Price Prediction Project
 
 ## Project Overview
-This project focuses on predicting house prices using various features like location, size, and number of rooms. The primary goal is to apply skills learned from the Machine Learning/AI foundations skill path, including data preprocessing, exploratory data analysis (EDA), and implementing a simple linear regression model.
+This project focuses on predicting house prices using various features like location, size, and number of rooms. The primary goal is to apply skills learned including data preprocessing, exploratory data analysis (EDA), and implementing a simple linear regression model.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
