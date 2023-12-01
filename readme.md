@@ -23,17 +23,28 @@ This project focuses on predicting house prices using various features like loca
 The dataset used in this project contains housing-related information, including features like area, bedrooms, bathrooms, parking, and price. It serves as the basis for predicting house prices. You can download the dataset from here or access it through the project's data folder.
 
 ## Usage
-Data Exploration: Open the Jupyter Notebook and navigate through the sections. Start by exploring the data to understand its structure and characteristics.
+## Data Exploration
+- **Open the Notebook**: Start by opening the Jupyter Notebook provided in this repository.
 
-Data Preprocessing: Follow the data preprocessing steps outlined in the notebook, including handling missing values and one-hot encoding for categorical variables.
+- **Explore the Data**: Navigate through the notebook sections to understand the structure and characteristics of the dataset. This initial step is crucial to get a sense of the data you'll be working with.
 
-Exploratory Data Analysis (EDA): Perform exploratory data analysis to gain insights into the dataset. Visualizations and summary statistics are provided to assist you in understanding the data.
+## Data Preprocessing
+- **Handling Missing Values**: Follow the data preprocessing steps outlined in the notebook to handle missing values in the dataset. Ensuring data completeness is essential for accurate analysis.
 
-Model Building: Implement a linear regression model to predict house prices based on the selected features.
+- **One-Hot Encoding**: Implement one-hot encoding for categorical variables. This transforms categorical data into a numerical format suitable for machine learning models.
 
-Model Evaluation: Evaluate the model's performance using metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE).
+## Exploratory Data Analysis (EDA)
+- **Gain Insights**: Perform exploratory data analysis (EDA) to gain valuable insights into the dataset. EDA involves visualizations and summary statistics to help you understand data patterns, distributions, and potential relationships.
 
-Results: Interpret the results to understand the predictive capability of the model. This section provides insights into how well the model performs in predicting house prices.
+## Model Building
+- **Linear Regression Model**: Implement a linear regression model to predict house prices based on the selected features. The model will learn from the data to make predictions.
+
+## Model Evaluation
+- **Metrics Evaluation**: Assess the model's performance using key metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE). These metrics provide quantitative measures of how well the model predicts house prices.
+
+## Results
+- **Interpretation**: In the results section, interpret the findings to understand the predictive capability of the model. Provide insights into how well the model performs in predicting house prices and any implications of the analysis.
+
 
 ## Methodology
 The project follows a structured methodology:
